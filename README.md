@@ -101,6 +101,7 @@ Aqi-prediction
 
 This project is licensed under the MIT License.
 
+---
 ## 📬 Contact
 
 Siva Ganesh
