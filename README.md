@@ -30,7 +30,7 @@ The dataset used is sourced from:
 
 - [OpenAQ](https://openaq.org/)
 - [Central Pollution Control Board (India)](https://cpcb.nic.in/)
-- Kaggle AQI dataset ()
+- Kaggle AQI dataset
 - The dataset includes hourly and daily pollutant concentrations for multiple regions and features:
 
 - PM2.5
@@ -51,7 +51,7 @@ Features used include:
 
 ## 🛠️ Technologies Used
 
-- Python 🐍
+- Python
 - Pandas, NumPy
 - Matplotlib, Seaborn (for visualization)
 - Scikit-learn
